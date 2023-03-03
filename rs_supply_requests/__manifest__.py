@@ -17,6 +17,8 @@
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'sale_management', 'purchase','project'],
+
+    # always loaded
     'data': [
         'security/ir.model.access.csv',
         'views/supply_requests_views.xml',
