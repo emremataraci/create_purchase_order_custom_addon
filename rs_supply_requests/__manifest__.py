@@ -25,7 +25,7 @@
         'views/sale_views.xml',
     ],
     "installable": True,
-    'license': 'LGPL-3',
+    'license': 'LGPL',
 
     
 }
